@@ -64,3 +64,36 @@ III. Weg	          1810	  0,12	          0	       x                             
 DKP	                1028	  0,07	          0	       x                                                   0
 DLW	                6619	  0,44	          0	       x                                                   0
 WU	                3877	  0,26	          0	       x                                                   0
+
+
+
+## Kleine Geschichte des Landtagsgebäudes
+
+* 1664: Der Große Kurfürst Friedrich Wilhelm lässt in Potsdam ein Schloss erbauen.
+* 1745: Friedrich II. König in Preußen lässt das Stadtschloss umbauen.
+* 1918: Nach dem Ersten Weltkrieg nutzen das Schloss unter anderem die Stadtverordneten und der Oberbürgermeister von Potsdam.
+* 1934: Die örtliche NSDAP-Führung bezieht einen Teil des Schlosses.
+* 14. April 1945: Während des Zweiten Weltkriegs bombardiert die britische Luftwaffe Potsdam, das Stadtschloss wird bis auf seine Außenmauern zerstört.
+* 21. Juli 1947: Neugründung des Landes Brandenburg in der Sowjetischen Besatzungszone aus der preußischen Provinz Mark Brandenburg.
+* 1952: Das Land Brandenburg wird aufgelöst, die drei Bezirke Potsdam, Cottbus und Frankfurt (Oder) entstehen.
+* 1959/60: Das zerstörte Stadtschloss in Potsdam wird vollständig abgetragen.
+* 3. Oktober 1990: Deutsche Einheit und Wiedergründung des Landes Brandenburg.
+* 1999: Die Potsdamer Stadtverordneten erklären die Stadtmitte zum Sanierungsgebiet, das Schloss soll nach historischen Vorlagen wiederaufgebaut und öffentlich genutzt werden.
+* 20. Mai 2005: Der Landtag Brandenburg beschließt, ein Parlamentsgebäude in den Um- und Aufrissen des Potsdamer Stadtschlosses zu errichten.
+* 25. März 2010: Erster Spatenstich zum Wiederaufbau des Stadtschlosses.
+* 10. Oktober 2013: Der Landtag Brandenburg übernimmt das wiederaufgebaute Schloss.
+* 21. Januar 2014: Festliche Einweihung des Landtags Brandenburg im wieder-aufgebauten Stadtschloss.
+
+## Kleine Geschichte des Landtags
+
+* 1946: 20. Oktober: Wahlen zum Landtag Provinz Mark Brandenburg.
+* 22. November: Der Landtag Provinz Mark Brandenburg konstituiert sich in Potsdam in der Friedrich-Ebert-Straße (heute Sitz der Stadtverwaltung Potsdam).
+* 1947: 9. September: Der Landtag Brandenburg bezieht die frühere Kadettenanstalt in Potsdam in der Heinrich-Mann-Allee (heute Sitz der Staatskanzlei des Landes Brandenburg).
+* 1990: Oktober: Der Landtag des wiedergegründeten Landes Brandenburg bezieht die frühere Kadettenanstalt in der Heinrich-Mann-Allee (heute Sitz der Staatskanzlei des Landes Brandenburg).
+* 1991: 16. Januar: Die Landtagsabgeordneten beschließen den Umzug auf den nahegelegenen Brauhausberg (vormals Sitz der SED-Bezirksleitung Potsdam).
+* 25. September: Erste Sitzung des Landtags auf dem Brauhausberg.
+* 2013: 22. November: Letzte Sitzung des Landtags auf dem Brauhausberg.
+* 2014: 22. Januar: Erste Sitzung des Landtags im wieder-aufgebauten Stadtschloss in Potsdam.
+
+  ## Kosten der Landtagswahl
+  * Was kostet die Landtagswahl? Eine Landtagswahl in Brandenburg kostet etwa drei Millionen Euro. Die Wahlkosten werden aus Steuermitteln bezahlt. Der Versand von Wahlbenachrichtigungen und von Briefwahlunterlagen sowie die Aufwandsentschädigung für die Mitglieder der Wahlvorstände, all das kostet. Das Land erstattet den Gemeinden und Gemeindeverbänden die Kosten nach einem bestimmten Kostenschlüssel. Das Landeswahlgesetz regelt die Höhe der Erstattungen im Einzelnen.
