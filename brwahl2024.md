@@ -36,7 +36,7 @@ Potsdam – Landeswahlleiter Josef Nußbaum gibt heute Nacht nach Vorliegen der 
 * gültige/ungültige Erststimmen: 1.492.237/21.401 (2019: 1.262.613/18.282)
 * gültige/ungültige Zweitstimmen: 1.501.188/12.450 (2019: 1.265.106/15.789)
 
-## Wahlergebnis der Landtagswahl in Brandenburg 2024 für die teilnehmenden Parteien nach Stimmenanzahl, Sitzen, Prozentanteil der Stimmen und Differenz zur letzten Landtagswahl in Brandenburg 2019
+## Wahlergebnis der Landtagswahl in Brandenburg am 22. September 2024 für die teilnehmenden Parteien nach Stimmenanzahl, Sitzen, Prozentanteil der Stimmen und Differenz zur vorherigen Landtagswahl in Brandenburg 2019
 | **Partei**         | **Wahlstimmen** | **Prozentanteil** | **Sitze** | **Differenz zur Landtagswahl 2019 in Prozent (%)** | **Differenz der Sitze zur Landtagswahl 2019** | **Ausrichtung**             |
 |--------------------|-----------------|-------------------|-----------|----------------------------------------------------|-----------------------------------------------| --------------------------- |
 | SPD	               | 463678	         | 30,89	           | 32	       | +4,70                                              | +7                                            | sozialdemokratisch          |
