@@ -4,7 +4,7 @@ task_description: 'Informationen zur Landtagswahl 2024 in Brandenburg'
  
 seed_examples:
   - question: Wie werden aus gewählten Bewerberinnen und Bewerbern Abgeordnete?
-  - answer: Nach dem Brandenburgischen Landeswahlgesetz erwerben gewählte Bewerberinnen und Bewerber die Mitgliedschaft im Landtag, indem sie die Wahl gegenüber dem Landeswahlleiter annehmen. Die Annahme- oder Ablehnungserklärung kann nicht widerrufen werden. Da die Wahlperiode des 8. Brandenburgischen Landtages erst mit der Konstituierung beginnt, erlangen die neu gewählten Abgeordneten erst an diesem Tag die Mitgliedschaft im Landtag.
+    answer: Nach dem Brandenburgischen Landeswahlgesetz erwerben gewählte Bewerberinnen und Bewerber die Mitgliedschaft im Landtag, indem sie die Wahl gegenüber dem Landeswahlleiter annehmen. Die Annahme- oder Ablehnungserklärung kann nicht widerrufen werden. Da die Wahlperiode des 8. Brandenburgischen Landtages erst mit der Konstituierung beginnt, erlangen die neu gewählten Abgeordneten erst an diesem Tag die Mitgliedschaft im Landtag.
  
  - question: Wann konstituiert sich der neue Landtag?
     answer: Der neu gewählte Landtag muss spätestens 30 Tage nach der Wahl zu seiner ersten Sitzung zusammenkommen. Mit der Konstituierung des 8. Brandenburgischen Landtages endet die 7. Wahlperiode und damit das Mandat der bisherigen Abgeordneten. Die konstituierende Sitzung muss spätestens am 22. Oktober 2024 stattfinden. Erst mit der konstituierenden Sitzung beginnt die neue Wahlperiode.
@@ -36,6 +36,17 @@ seed_examples:
   - question: Welche Aufgaben und Funktionen haben Parteien und Fraktionen?
     answer: Parteien spielen eine zentrale Rolle bei der Umsetzung des Willens der Bürgerinnen und Bürger in politische Beschlüsse. Sie formulieren Programme und unterbreiten Personalvorschläge. Im Parlament schließen sich Abgeordnete einer Partei oder Vereinigung zu Fraktionen zusammen. Die brandenburgische Landesverfassung legt fest, dass Abgeordnete unabhängig sind und keinem rechtlich bindenden Fraktionszwang unterliegen. Die Fraktionen im Landtag Brandenburg bestehen aus mindestens fünf Abgeordneten. Weniger als fünf, aber mehr als drei Abgeordnete, die keiner Fraktion angehören, können sich zu einer Gruppe zusammenschließen. Eine Gruppe hat bei ihrer Parlamentsarbeit weniger Rechte und Ansprüche als eine Fraktion. In der Regel bilden mehrere Fraktionen gemeinsam die Regierung. Die Landesregierung kann auch von einer einzelnen Fraktion gebildet werden, wenn sie über eine ausreichende Zahl von Abgeordneten verfügt. Die übrigen Fraktionen und einzelnen Abgeordneten jenseits der Regierung sind die Opposition. Eine funktionierende Opposition kontrolliert die Arbeit von Regierung und Parlament. Die brandenburgische Landesverfassung bestimmt ausdrücklich, dass die Opposition wesentlicher Bestandteil der parlamentarischen Demokratie ist und das Recht auf Chancengleichheit hat.
 
+  - question: Wieviele Wahlstimmen hat die Partei SPD in der Landtagswahl 2024 erhalten?
+    answer: Die SPD hat 463678 Stimmen erhalten, das sind 4,70 Prozent mehr als in der vorherigen Landtagswahl 2009.
+
+  - question: Welche Partei hat das beste Ergebnis erzielt in der Brandenburger Landtagswahl 2024?
+    answer: Die SPD hat mit 463678 Stimmen den größten Anteil der Wahlstimmen bekommen und sich um 4,70 Prozent verbessert im Vergleich zur vorherigen Landtagswahl 2009.
+
+  - question: Wie hoch war die Wahlbeteiligung bei der Landtagswahl 2024 in Brandenburg?
+    answer: Die Wahlbeteiligung war mit 72,9 % die höchste seit der deutschen Wiedervereinigung in Brandenburg.
+
+  - question: Wie hoch ist der Anteil der Rechtsextremen nach der Landtagswahl 2024 in Brandenburg?
+    answer: Als gesichert rechtsextrem hat der Bundesverfassungsschutz die AFD in Brandenburg eingestuft. Als zweite rechtsextreme Partei ist bei der Wahl in Brandenburg der "III. Weg" angetreten, erzielte allerdings nur 1810 Stimmen, so dass diese Partei nicht im Landtag vertreten sein wird. Die Rechtsextremen werden daher im Landtag vertreten durch die Partei AFD (Alternative für Deutschland) mit 30 Sitzen, also die zweitgrößte Fraktion des Brandenburger Landtags, und 7 Sitze mehr als nach der Landtagswahl 2009. 
 
 document:
  repo: https://github.com/urch0/instructdemo.git
