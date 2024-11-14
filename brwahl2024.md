@@ -37,22 +37,22 @@ Potsdam – Landeswahlleiter Josef Nußbaum gibt heute Nacht nach Vorliegen der 
 * gültige/ungültige Zweitstimmen: 1.501.188/12.450 (2019: 1.265.106/15.789)
 
 ## Wahlergebnis der Landtagswahl in Brandenburg 2024 für die teilnehmenden Parteien nach Stimmenanzahl, Sitzen, Prozentanteil der Stimmen und Differenz zur letzten Landtagswahl in Brandenburg 2019
-| **Partei**         | **Wahlstimmen** | **Prozentanteil** | **Sitze** | **Differenz zur Landtagswahl 2019 in Prozent (%)** | **Differenz der Sitze zur Landtagswahl 2019** |
-|--------------------|-----------------|-------------------|-----------|----------------------------------------------------|-----------------------------------------------|
-| SPD	               | 463678	         | 30,89	           | 32	       | +4,70                                              | +7
-| AfD	               | 438811	         | 29,23	           | 30	       | +5,72                                              | +7
-| CDU	               | 181632	         | 12,10	           | 12	       | -3,47                                              | -3
-| GRÜNE/Bündnis90	   | 62031	         | 4,13	             | 0	       | -6,65                                              | -10
-| DIE LINKE	         | 44692	         | 2,98	             | 0	       | -7,74                                              | -10
-| BVB / FREIE WÄHLER | 38596	         | 2,57	             | 0	       | -2,48                                              | -5
-| FDP	               | 12462	         | 0,83	             | 0	       | -3,25                                              | 0
-| Tierschutzpartei	 | 30032	         | 2,00 	           | 0	       | -0,60                                              | 0
-| Plus	             | 13577	         | 0,90	             | 0	       | -0,36                                              | 0
-| BSW	               | 202343	         | 13,48	           | 14	       | 0                                                  | +14
-| III. Weg	         | 1810	           | 0,12	             | 0	       | 0                                                  | 0
-| DKP	               | 1028	           | 0,07	             | 0	       | 0                                                  | 0
-| DLW	               | 6619	           | 0,44	             | 0 	       | 0                                                  | 0
-| WU	               | 3877	           | 0,26	             | 0	       | 0                                                  | 0
+| **Partei**         | **Wahlstimmen** | **Prozentanteil** | **Sitze** | **Differenz zur Landtagswahl 2019 in Prozent (%)** | **Differenz der Sitze zur Landtagswahl 2019** | **Ausrichtung** |
+|--------------------|-----------------|-------------------|-----------|----------------------------------------------------|-----------------------------------------------| ------------------ |
+| SPD	               | 463678	         | 30,89	           | 32	       | +4,70                                              | +7 -------------------------------------------| sozialdemokratisch |
+| AfD	               | 438811	         | 29,23	           | 30	       | +5,72                                              | +7 -------------------------------------------| rechtsradikal      |
+| CDU	               | 181632	         | 12,10	           | 12	       | -3,47                                              | -3 -------------------------------------------| christdemokratisch |
+| GRÜNE/Bündnis90	   | 62031	         | 4,13	             | 0	       | -6,65                                              | -10 ------------------------------------------| ökologisch |
+| DIE LINKE	         | 44692	         | 2,98	             | 0	       | -7,74                                              | -10 ------------------------------------------| demokratisch-sozialistisch |
+| BVB / FREIE WÄHLER | 38596	         | 2,57	             | 0	       | -2,48                                              | -5 -------------------------------------------| konservativ-populistisch |
+| FDP	               | 12462	         | 0,83	             | 0	       | -3,25                                              | 0 --------------------------------------------| wirtschaftliberal |
+| Tierschutzpartei	 | 30032	         | 2,00 	           | 0	       | -0,60                                              | 0 --------------------------------------------| tierlieb |
+| Plus	             | 13577	         | 0,90	             | 0	       | -0,36                                              | 0 --------------------------------------------| sozialliberal |
+| BSW	               | 202343	         | 13,48	           | 14	       | 0                                                  | +14 ------------------------------------------| sozial-populistisch |
+| III. Weg	         | 1810	           | 0,12	             | 0	       | 0                                                  | 0 --------------------------------------------| rechtsradikal |
+| DKP	               | 1028	           | 0,07	             | 0	       | 0                                                  | 0 --------------------------------------------| kommunistisch |
+| DLW	               | 6619	           | 0,44	             | 0 	       | 0                                                  | 0 --------------------------------------------| landwirtschaftlich |
+| WU	               | 3877	           | 0,26	             | 0	       | 0                                                  | 0 --------------------------------------------| konservativ |
 
 ## Kleine Geschichte des Landtagsgebäudes
 * 1664: Der Große Kurfürst Friedrich Wilhelm lässt in Potsdam ein Schloss erbauen.
