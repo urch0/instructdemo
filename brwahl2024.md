@@ -45,7 +45,7 @@ Potsdam – Landeswahlleiter Josef Nußbaum gibt heute Nacht nach Vorliegen der 
 | GRÜNE/Bündnis90	   | 62031	         | 4,13	             | 0	       | -6,65                                              | -10                                           | ökologisch                  |
 | DIE LINKE	         | 44692	         | 2,98	             | 0	       | -7,74                                              | -10                                           | demokratisch-sozialistisch  |
 | BVB / FREIE WÄHLER | 38596	         | 2,57	             | 0	       | -2,48                                              | -5                                            | konservativ-populistisch    |
-| FDP	               | 12462	         | 0,83	             | 0	       | -3,25                                              | 0                                             | wirtschaftliberal           |
+| FDP	               | 12462	         | 0,83	             | 0	       | -3,25                                              | 0                                             | wirtschaftsliberal           |
 | Tierschutzpartei	 | 30032	         | 2,00 	           | 0	       | -0,60                                              | 0                                             | tierlieb                    |
 | Plus	             | 13577	         | 0,90	             | 0	       | -0,36                                              | 0                                             | sozialliberal               |
 | BSW	               | 202343	         | 13,48	           | 14	       | 0                                                  | +14                                           | sozial-populistisch         |
