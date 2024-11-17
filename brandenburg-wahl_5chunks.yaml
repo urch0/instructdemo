@@ -1,0 +1,94 @@
+version: 3
+domain: elections
+created_by: urch0
+
+seed_examples:
+  - context: |
+     Das Parlament des deutschen Bundeslands Brandenburg wird alle 5 Jahre von den wahlberechtigten Bürgerinnen und Bürgern in Brandenburg gewählt. Bei der Landtagswahl wählen die Brandenburgerinnen und Brandenburger ihre Abgeordneten für das brandenburgische Parlament, den Landtag Brandenburg. Gewählt werden die Abgeordneten für die Dauer von fünf Jahren. Käme es zu einem vorzeitigen Ende der Wahlperiode, müsste eine Neuwahl zum Landtag innerhalb von 70 Tagen nach der Entscheidung zur Auflösung stattfinden. Wie alle Volksvertretungen in der Bundesrepublik Deutschland werden die Abgeordneten des Landtags Brandenburg in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl bestimmt. So regelt es die Verfassung des Landes Brandenburg (Artikel 22). Mehrheitswahl (Person) und Verhältniswahl (Partei) werden bei der Landtagswahl miteinander kombiniert, man spricht daher von einer personalisierten Verhältniswahl. Spätestens 30 Tage nach der Wahl tritt der neue Landtag zusammen. Die Landtagswahl findet 2024 zum achten Mal seit 1990 statt. Wahltag muss stets ein Sonntag oder ein gesetzlicher Feiertag sein, um allen Brandenburgerinnen und Brandenburgern die Teilnahme an der Wahl zu ermöglichen.
+    questions_and_answers:
+      - question: |
+         Wie werden aus gewählten Bewerberinnen und Bewerbern Abgeordnete?
+        answer: |
+         Nach dem Brandenburgischen Landeswahlgesetz erwerben gewählte Bewerberinnen und Bewerber die Mitgliedschaft im Landtag, indem sie die Wahl gegenüber dem Landeswahlleiter annehmen. Die Annahme- oder Ablehnungserklärung kann nicht widerrufen werden. Da die Wahlperiode des 8. Brandenburgischen Landtages erst mit der Konstituierung beginnt, erlangen die neu gewählten Abgeordneten erst an diesem Tag die Mitgliedschaft im Landtag.
+      - question: |
+          Welche Aufgaben und Funktionen haben Parteien und Fraktionen?
+        answer: |
+          Parteien spielen eine zentrale Rolle bei der Umsetzung des Willens der Bürgerinnen und Bürger in politische Beschlüsse. Sie formulieren Programme und unterbreiten Personalvorschläge. Im Parlament schließen sich Abgeordnete einer Partei oder Vereinigung zu Fraktionen zusammen. Die brandenburgische Landesverfassung legt fest, dass Abgeordnete unabhängig sind und keinem rechtlich bindenden Fraktionszwang unterliegen. Die Fraktionen im Landtag Brandenburg bestehen aus mindestens fünf Abgeordneten. Weniger als fünf, aber mehr als drei Abgeordnete, die keiner Fraktion angehören, können sich zu einer Gruppe zusammenschließen. Eine Gruppe hat bei ihrer Parlamentsarbeit weniger Rechte und Ansprüche als eine Fraktion. In der Regel bilden mehrere Fraktionen gemeinsam die Regierung. Die Landesregierung kann auch von einer einzelnen Fraktion gebildet werden, wenn sie über eine ausreichende Zahl von Abgeordneten verfügt. Die übrigen Fraktionen und einzelnen Abgeordneten jenseits der Regierung sind die Opposition. Eine funktionierende Opposition kontrolliert die Arbeit von Regierung und Parlament. Die brandenburgische Landesverfassung bestimmt ausdrücklich, dass die Opposition wesentlicher Bestandteil der parlamentarischen Demokratie ist und das Recht auf Chancengleichheit hat.
+      - question: |
+          Gibt es in Brandenburg auch Direktmandate?
+        answer: |
+          Ja, in Brandenburg können Kandidaten auch direkt in den Landtag gewählt werden, wenn sie die meisten Stimmen in ihrem Wahlkreis bekommen. Dadurch entfällt dann auch die 5%-Hürde für die jeweilige Partei.
+
+  - context: |
+      Nach der Wahl konstituiert sich der Landtag entsprechend des Wahlergebnisses in einem vorgeschriebenen Prozess.
+    questions_and_answers:
+      - question: |
+          Wann konstituiert sich der neue Landtag?
+        answer: |
+          Der neu gewählte Landtag muss spätestens 30 Tage nach der Wahl zu seiner ersten Sitzung zusammenkommen. Mit der Konstituierung des 8. Brandenburgischen Landtages endet die 7. Wahlperiode und damit das Mandat der bisherigen Abgeordneten. Die konstituierende Sitzung muss spätestens am 22. Oktober 2024 stattfinden. Erst mit der konstituierenden Sitzung beginnt die neue Wahlperiode.
+      - question: |
+          Wer beruft die konstituierende Sitzung ein?
+        answer: |
+          Die Präsidentin des bisherigen Landtages beruft die Mitglieder des Landtages zur konstituierenden Sitzung ein. Die konstituierende Sitzung wird bis zur Wahl der neuen Präsidentin/des neuen Präsidenten vom ältesten anwesenden Mitglied des Landtages geleitet, das bereit ist, diese Aufgabe zu übernehmen.
+      - question: |
+           Was passiert in der konstituierenden Sitzung?
+        answer: |
+           Die Alterspräsidentin/der Alterspräsident eröffnet die konstituierende Sitzung, die mit dem Namensaufruf der Mitglieder des Landtages beginnt. Danach beschließt das Parlament eine vorläufige Geschäftsordnung. Der Landtag wählt in der ersten Sitzung aus seiner Mitte eine Präsidentin oder einen Präsidenten und mindestens eine Vizepräsidentin oder einen Vizepräsidenten. Sodann wählt er aus seiner Mitte die weiteren Mitglieder des Präsidiums. Eine Vizepräsidentin oder ein Vizepräsident soll einer Oppositionsfraktion angehören. Jede Fraktion ist berechtigt, im Präsidium vertreten zu sein. Nach der Wahl übernimmt die neue Landtagspräsidentin/der neue Landtagspräsident die Sitzungsleitung von der Alterspräsidentin/dem Alterspräsidenten.
+
+  - context: |
+     Das Landesoberhaupt ist die Ministerpräsidentin oder der Ministerpräsident. Nach der Landtagswahl wird der Ministerpräsident vom Parlament gewählt.
+    questions_and_answers:
+      - question: |
+         Wie wird die Ministerpräsidentin/der Ministerpräsident gewählt?
+        answer: |
+         Der Landtag wählt die Ministerpräsidentin/den Ministerpräsidenten mit der Mehrheit der gesetzlichen Zahl seiner Mitglieder in geheimer Abstimmung. Vorschlagsberechtigt ist jede/-r Abgeordnete. Erhält im ersten Wahlgang kein Kandidierender die Mehrheit, findet ein zweiter Wahlgang statt. Kommt die Wahl auch dann nicht zustande, so ist gewählt, wer in einem weiteren Wahlgang die meisten Stimmen auf sich vereinigen kann. Wird nicht innerhalb von drei Monaten nach der Konstituierung des Landtages eine Ministerpräsidentin/ein Ministerpräsident gewählt, so gilt das Parlament als aufgelöst. In diesem Fall muss innerhalb von 70 Tagen eine Neuwahl stattfinden.
+      - question: |
+         Wie geht es in den folgenden Plenarsitzungen weiter?
+        answer: |
+         In den nächsten Plenarsitzungen werden die Ausschüsse des Landtags gebildet und deren Zusammensetzung bestimmt. Die Anzahl der Ausschüsse und deren Zuschnitt orientiert sich an der Ressortstruktur der Landesregierung. Die Ministerpräsidentin/der Ministerpräsident und die von ihr/ihm berufenen Ministerinnen und Minister der Landesregierung werden vor Übernahme der Geschäfte vor dem Landtag vereidigt. Das Präsidium beschließt den Sitzungsplan, den Terminplan für das jeweilige Kalenderjahr sowie den Entwurf der Tagesordnung für die jeweilige Plenarsitzung.
+      - question: |
+          Muss der Ministerpräsident oder die Ministerpräsidentin formale Qualifikationen erfüllen?
+        answer: |
+          Nein, jedes Mitglied des gewählten Parlaments kann vorgeschlagen und gewählt werden.
+
+  - context: |
+     Das Wahlrecht ist gesetzlich geregelt und bestimmt wer wahlberechtigt ist. Dadurch wird sowohl geregelt, wer wählen darf, als auch wer gewählt werden darf. Das nennt man aktives und passives Wahlrecht.
+    questions_and_answers:
+      - question: |
+         Wer darf wählen?
+        answer: |
+         Laut Verfassung des Landes Brandenburg (Artikel 22) hat jede Bürgerin und jeder Bürger nach Vollendung des 16. Lebensjahres das Recht, den Landtag zu wählen. Wahlberechtigt sind alle deutschen Staatsbürgerinnen und Staatsbürger, die seit mindestens einem Monat ihren ständigen Wohnsitz in Brandenburg haben oder sich hier gewöhnlich aufhalten. Um wählen zu dürfen, muss man in einem Wahlberechtigtenverzeichnis eingetragen sein oder einen Wahlschein erhalten haben. Ausgeschlossen von der Wahl ist, wer infolge eines Richterspruchs in der Bundesrepublik Deutschland das Wahlrecht nicht besitzt.
+      - question: |
+         Wer darf gewählt werden?
+        answer: |
+         Gewählt werden können laut Verfassung des Landes Brandenburg (Artikel 22) alle Bürgerinnen und Bürger nach Vollendung des 18. Lebensjahres. Sie müssen die deutsche Staatsbürgerschaft besitzen und seit mindestens drei Monaten im Land Brandenburg ihren ständigen Wohnsitz haben oder sich hier gewöhnlich aufhalten. Nicht wählbar ist, wer infolge eines Richterspruchs in der Bundesrepublik Deutschland das Wahlrecht oder die Wählbarkeit nicht besitzt.
+      - question: |
+         Dürfen Menschen ohne deutsche Staatsangehörigkeit den Landtag Brandenburg wählen?
+        answer: |
+         Laut Landesverfassung wäre das möglich. Dazu müsste aber das Grundgesetz geändert werden. Dieses koppelt die Wahlberechtigung an die deutsche Staatsbürgerschaft (Artikel 28, Abs. 1 und Artikel 116, Abs. 1). Bundesrecht steht über Landesrecht, daher dürfen Menschen ohne deutsche Staatsangehörigkeit den Landtag in Brandenburg nicht wählen. Die Landesverfassung ist jedoch so angelegt, das aktive und passive Wahlrecht zu gewähren, „sobald und soweit das Grundgesetz dies zulässt“ (Artikel 22, Abs. 1). Bei Kommunalwahlen sind EUStaatsangehörige bereits wahlberechtigt.
+
+  - context: |
+     Die Landtagswahl in Brandenburg vom 22. September 2024 für die politischen Parteien in absoluten Wahlstimmen, relativ zur Anzahl der Gesamtstimmen, und nach den erzielten Sitzen im Parlament. Hier ist eine Zusammenfassung der Ergebnisse: Die SPD erreichte 463.678 Stimmen, was einem Anteil von 30,89 % entspricht. Sie konnte 32 Sitze gewinnen und verzeichnete im Vergleich zur Landtagswahl 2019 eine Verbesserung um 4,70 % und 7 zusätzliche Sitze. Die Partei vertritt eine sozialdemokratische Ausrichtung. Die AfD erhielt 438.811 Stimmen, was 29,23 % entspricht. Sie gewann 30 Sitze und konnte sich im Vergleich zur vorherigen Wahl um 5,72 % steigern, ebenfalls mit einem Zuwachs von 7 Sitzen. Die Partei ist rechtsradikal ausgerichtet. Die CDU kam auf 181.632 Stimmen und einen Anteil von 12,10 %. Sie konnte 12 Sitze sichern, verzeichnete jedoch Verluste von 3,47 % und 3 Sitzen im Vergleich zur letzten Wahl. Ihre Ausrichtung ist christdemokratisch. Die GRÜNEN/Bündnis 90 erhielten 62.031 Stimmen (4,13 %) und verloren alle bisherigen Sitze. Ihr Ergebnis sank um 6,65 % im Vergleich zu 2019, womit sie 10 Sitze einbüßten. Die Partei ist ökologisch orientiert. DIE LINKE kam auf 44.692 Stimmen und einen Anteil von 2,98 %. Auch sie verlor alle Sitze, mit einem Rückgang von 7,74 % und einem Minus von 10 Sitzen im Vergleich zur letzten Wahl. Die Partei vertritt eine demokratisch-sozialistische Ausrichtung Die BVB / FREIE WÄHLER erreichten 38.596 Stimmen (2,57 %) und blieben ohne Sitze. Im Vergleich zur Landtagswahl 2019 verloren sie 2,48 % und 5 Sitze. Ihre Ausrichtung ist konservativ-populistisch. Die FDP erhielt 12.462 Stimmen (0,83 %), konnte jedoch keine Sitze gewinnen. Ihr Ergebnis sank um 3,25 %, aber ihre Sitzanzahl blieb unverändert. Die Partei steht für wirtschaftsliberale Werte. Die Tierschutzpartei erzielte 30.032 Stimmen (2,00 %) und blieb ohne Sitze. Sie verzeichnete einen Rückgang von 0,60 %, blieb jedoch hinsichtlich der Sitze stabil. Die Partei hat eine tierfreundliche Ausrichtung. Die Partei **Plus** erhielt 13.577 Stimmen (0,90 %) und konnte ebenfalls keine Sitze erringen. Ihr Ergebnis sank um 0,36 %, ohne Veränderung in der Sitzanzahl. Ihre Ausrichtung ist sozialliberal. Die BSW erzielte 202.343 Stimmen, was einem Anteil von 13,48 % entspricht, und konnte 14 Sitze gewinnen. Ihr Ergebnis blieb stabil, wobei sie 14 Sitze hinzugewann. Die Partei ist sozial-populistisch ausgerichtet. Der III. Weg kam auf 1.810 Stimmen (0,12 %) und blieb ohne Sitze. Ihr Ergebnis sowie die Sitzanzahl änderten sich nicht. Die Partei ist rechtsradikal. Die DKP erreichte 1.028 Stimmen (0,07 %), blieb aber ohne Sitze. Ihr Ergebnis blieb ebenfalls stabil. Sie vertritt eine kommunistische Ausrichtung. Die DLW erhielt 6.619 Stimmen (0,44 %) und konnte keine Sitze gewinnen. Auch hier gab es keine Veränderung im Vergleich zu 2019. Die Partei hat eine landwirtschaftliche Ausrichtung. Die WU erzielte 3.877 Stimmen (0,26 %) und blieb ohne Sitze. Ihr Ergebnis sowie die Sitzanzahl blieben unverändert. Ihre Ausrichtung ist konservativ. Insgesamt zeigt die Wahl deutliche Zugewinne für SPD und AfD, während insbesondere GRÜNE und DIE LINKE starke Verluste hinnehmen mussten.
+    questions_and_answers:
+      - question: |
+          Wieviele Wahlstimmen hat die Partei SPD in der Landtagswahl 2024 erhalten?
+        answer: |
+          Die SPD hat 463678 Stimmen erhalten, das sind 4,70 Prozent mehr als in der vorherigen Landtagswahl 2009.
+      - question: |
+          Welche Partei hat das beste Ergebnis erzielt in der Brandenburger Landtagswahl 2024?
+        answer: |
+          Die SPD hat mit 463678 Stimmen den größten Anteil der Wahlstimmen bekommen und sich um 4,70 Prozent verbessert im Vergleich zur vorherigen Landtagswahl 2009.
+      - question: |
+          Wie hoch war die Wahlbeteiligung bei der Landtagswahl 2024 in Brandenburg?
+        answer: |
+          Die Wahlbeteiligung war mit 72,9 % die höchste seit der deutschen Wiedervereinigung in Brandenburg.
+      - question: |
+          Wie hoch ist der Anteil der Rechtsextremen nach der Landtagswahl 2024 in Brandenburg?
+        answer: |
+          Als gesichert rechtsextrem hat der Bundesverfassungsschutz die AFD in Brandenburg eingestuft. Als zweite rechtsextreme Partei ist bei der Wahl in Brandenburg der "III. Weg" angetreten, erzielte allerdings nur 1810 Stimmen, so dass diese Partei nicht im Landtag vertreten sein wird. Die Rechtsextremen werden daher im Landtag vertreten durch die Partei AFD (Alternative für Deutschland) mit 30 Sitzen, also die zweitgrößte Fraktion des Brandenburger Landtags, und 7 Sitze mehr als nach der Landtagswahl 2009.
+document_outline: Informationen zur Landtagswahl 2024 in Brandenburg
+document:
+  repo: https://github.com/urch0/instructdemo.git
+  commit: 686596c11ad4c0b1bd6a6a9b0da50610d74dcc13
+  patterns:
+    - brwahl2024.md
