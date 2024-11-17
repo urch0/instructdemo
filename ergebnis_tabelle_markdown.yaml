@@ -1,0 +1,131 @@
+| **Partei**         | **Wahlstimmen** | **Prozentanteil** | **Sitze** | **Differenz zur Landtagswahl 2019 in Prozent (%)** | **Differenz der Sitze zur Landtagswahl 2019** | **Ausrichtung**             |
+|--------------------|-----------------|-------------------|-----------|----------------------------------------------------|-----------------------------------------------| --------------------------- |
+| SPD	             | 463678	       | 30,89	           | 32	       | +4,70                                              | +7                                            | sozialdemokratisch          |
+| AfD	             | 438811	       | 29,23	           | 30	       | +5,72                                              | +7                                            | rechtsradikal               |
+| CDU	             | 181632	       | 12,10	           | 12	       | -3,47                                              | -3                                            | christdemokratisch          |
+| GRÜNE/Bündnis90    | 62031	       | 4,13	           | 0	       | -6,65                                              | -10                                           | ökologisch                  |
+| DIE LINKE	     | 44692	       | 2,98	           | 0	       | -7,74                                              | -10                                           | demokratisch-sozialistisch  |
+| BVB / FREIE WÄHLER | 38596	       | 2,57	           | 0	       | -2,48                                              | -5                                            | konservativ-populistisch    |
+| FDP	             | 12462	       | 0,83	           | 0	       | -3,25                                              | 0                                             | wirtschaftsliberal          |
+| Tierschutzpartei   | 30032	       | 2,00 	           | 0	       | -0,60                                              | 0                                             | tierlieb                    |
+| Plus	             | 13577	       | 0,90	           | 0	       | -0,36                                              | 0                                             | sozialliberal               |
+| BSW	             | 202343	       | 13,48	           | 14	       | 0                                                  | +14                                           | sozial-populistisch         |
+| III. Weg	     | 1810	       | 0,12	           | 0	       | 0                                                  | 0                                             | rechtsradikal               |
+| DKP	             | 1028	       | 0,07	           | 0	       | 0                                                  | 0                                             | kommunistisch               |
+| DLW	             | 6619	       | 0,44	           | 0 	       | 0                                                  | 0                                             | landwirtschaftlich          |
+| WU	             | 3877	       | 0,26	           | 0	       | 0                                                  | 0                                             | konservativ                 |
+
+
+
+parteien:
+  - name: "SPD"
+    wahlstimmen: 463678
+    prozentanteil: 30.89
+    sitze: 32
+    differenz_prozent: 4.70
+    differenz_sitze: 7
+    ausrichtung: "sozialdemokratisch"
+
+  - name: "AfD"
+    wahlstimmen: 438811
+    prozentanteil: 29.23
+    sitze: 30
+    differenz_prozent: 5.72
+    differenz_sitze: 7
+    ausrichtung: "rechtsradikal"
+
+  - name: "CDU"
+    wahlstimmen: 181632
+    prozentanteil: 12.10
+    sitze: 12
+    differenz_prozent: -3.47
+    differenz_sitze: -3
+    ausrichtung: "christdemokratisch"
+
+  - name: "GRÜNE/Bündnis90"
+    wahlstimmen: 62031
+    prozentanteil: 4.13
+    sitze: 0
+    differenz_prozent: -6.65
+    differenz_sitze: -10
+    ausrichtung: "ökologisch"
+
+  - name: "DIE LINKE"
+    wahlstimmen: 44692
+    prozentanteil: 2.98
+    sitze: 0
+    differenz_prozent: -7.74
+    differenz_sitze: -10
+    ausrichtung: "demokratisch-sozialistisch"
+
+  - name: "BVB / FREIE WÄHLER"
+    wahlstimmen: 38596
+    prozentanteil: 2.57
+    sitze: 0
+    differenz_prozent: -2.48
+    differenz_sitze: -5
+    ausrichtung: "konservativ-populistisch"
+
+  - name: "FDP"
+    wahlstimmen: 12462
+    prozentanteil: 0.83
+    sitze: 0
+    differenz_prozent: -3.25
+    differenz_sitze: 0
+    ausrichtung: "wirtschaftsliberal"
+
+  - name: "Tierschutzpartei"
+    wahlstimmen: 30032
+    prozentanteil: 2.00
+    sitze: 0
+    differenz_prozent: -0.60
+    differenz_sitze: 0
+    ausrichtung: "tierlieb"
+
+  - name: "Plus"
+    wahlstimmen: 13577
+    prozentanteil: 0.90
+    sitze: 0
+    differenz_prozent: -0.36
+    differenz_sitze: 0
+    ausrichtung: "sozialliberal"
+
+  - name: "BSW"
+    wahlstimmen: 202343
+    prozentanteil: 13.48
+    sitze: 14
+    differenz_prozent: 0
+    differenz_sitze: 14
+    ausrichtung: "sozial-populistisch"
+
+  - name: "III. Weg"
+    wahlstimmen: 1810
+    prozentanteil: 0.12
+    sitze: 0
+    differenz_prozent: 0
+    differenz_sitze: 0
+    ausrichtung: "rechtsradikal"
+
+  - name: "DKP"
+    wahlstimmen: 1028
+    prozentanteil: 0.07
+    sitze: 0
+    differenz_prozent: 0
+    differenz_sitze: 0
+    ausrichtung: "kommunistisch"
+
+  - name: "DLW"
+    wahlstimmen: 6619
+    prozentanteil: 0.44
+    sitze: 0
+    differenz_prozent: 0
+    differenz_sitze: 0
+    ausrichtung: "landwirtschaftlich"
+
+  - name: "WU"
+    wahlstimmen: 3877
+    prozentanteil: 0.26
+    sitze: 0
+    differenz_prozent: 0
+    differenz_sitze: 0
+    ausrichtung: "konservativ"
